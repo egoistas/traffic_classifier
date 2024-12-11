@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 To execute the project:
 
-1. Run `capture_and_process.ps1` to start capturing network traffic.
+1. Run `main.py` to start capturing network traffic.
 2. The script will collect data, process it, and run the model to predict attacks.
 3. Prediction results will be displayed in the console.
 
